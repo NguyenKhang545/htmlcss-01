@@ -113,7 +113,7 @@ a {
     opacity: 0.9;
 }
 
-.sub-title {
+.hero-wrap .sub-title {
     font-weight: 500;
     font-size: 1.8rem;
     line-height: 1.5;
@@ -121,18 +121,18 @@ a {
     color: #687690;
 }
 
-.title {
+.hero-wrap .title {
     margin-top: 8px;
     color: #000336;
     font-size: 6.4rem;
     font-weight: 700;
     line-height: 1.19;
 }
-.info {
+.hero-wrap .info {
     width: 51%;
 }
 
-.desc {
+.hero-wrap .desc {
     color: #5a6473;
     font-size: 18px;
     font-weight: 400;
@@ -140,7 +140,7 @@ a {
     margin-top: 30px;
 }
 
-.hero-cta {
+.hero-wrap .hero-cta {
     min-width: 170px;
     margin-top: 40px;
 }
